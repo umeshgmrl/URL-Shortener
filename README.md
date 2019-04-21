@@ -1,4 +1,4 @@
-# API Project: URL Shortener Microservice for freeCodeCamp
+URL Shortener Microservice
 
 ## Live
 
